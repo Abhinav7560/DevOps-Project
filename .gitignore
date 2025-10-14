@@ -1,0 +1,11 @@
+# Terraform-generated files
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+ 
+# Optional: ignore sensitive or temp files
+*.log
+*.bak
+*.tmp
