@@ -88,3 +88,4 @@ resource "aws_instance" "web" {
     Name = "DevOps Project"
   }
 }
+
